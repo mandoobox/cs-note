@@ -1,0 +1,4 @@
+interface:
+  display_name: "CS Mermaid Validator"
+  short_description: "Validate Mermaid blocks in CS notes"
+  default_prompt: "Use $cs-note-mermaid-validator to check Mermaid blocks in my markdown notes and report syntax risks."

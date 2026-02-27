@@ -1,0 +1,4 @@
+interface:
+  display_name: "CS Note Linter"
+  short_description: "Lint and normalize CS markdown notes"
+  default_prompt: "Use $cs-note-linter to lint my CS note markdown files and propose safe fixes."
