@@ -1,4 +1,0 @@
-interface:
-  display_name: "CS Interview Kit"
-  short_description: "Build mock interview sets from CS notes"
-  default_prompt: "Use $cs-note-interview-kit to generate a section-based CS mock interview pack from my markdown notes."
