@@ -9,6 +9,16 @@
 | [Network.md](./Network.md) | OSI/TCP-IP, L2~L7, 성능 튜닝, 네트워크 프로그래밍, 분산 시스템 기초 |
 | [Database.md](./Database.md) | 모델링, SQL, 저장 엔진, 인덱스, 트랜잭션, 최적화, 동시성 제어, NoSQL |
 
+## web에서 보기
+
+https://kimmandoo.vercel.app/posts/cs/DataStructure
+
+https://kimmandoo.vercel.app/posts/cs/OS
+
+https://kimmandoo.vercel.app/posts/cs/Network
+
+https://kimmandoo.vercel.app/posts/cs/Database
+
 ## 오류 제보
 
 - 자유 양식의 PR, Issue
